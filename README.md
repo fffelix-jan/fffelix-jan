@@ -20,8 +20,9 @@
 
 <br />
 
-<a href="https://github.com/fffelix-jan/fffelix-jan">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=fffelix-jan&theme=tokyonight" />
-  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fffelix-jan&langs_count=3&theme=tokyonight" />
+<a href="https://github.com/fffelix-jan">
+  <p align = "center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fffelix-jan&theme=tokyonight" height="196px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fffelix-jan&langs_count=3&theme=tokyonight" height="196px"/>
+ </p>    
 </a>
