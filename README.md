@@ -1,5 +1,5 @@
 <h1  align="center">Hi. I'm Félix. Programming and cycling is fun, isn't it?</h1></p>
-<p>I'm not the best at programming, but computers exist, don't they? My dream job is to become a transit operator. This programming stuff is just here for pointless fun.</p>
+<p>IActually, I don't like programming, but I have to, because computers exist, don't they? My dream job is to become a transit operator or customer service ambassador. This programming stuff is just here for pointless fun.</p>
 
 <div align="center">
 
