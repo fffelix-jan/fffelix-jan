@@ -1,5 +1,5 @@
 <h1  align="center">Hi. I'm Félix. Programming and cycling is fun, isn't it?</h1></p>
-<p>Actually, I don't like programming, but I have to, because computers exist, don't they? My dream job is to become a transit operator or customer service ambassador. This programming stuff is just here for pointless fun.</p>
+<p>Actually, I don't like programming, but I have to, because computers exist, don't they? (Basic programming is an essential skill for using the computer these days.) My dream job is to become a transit operator or customer service ambassador. This programming stuff is just here for pointless fun.</p>
 <p>P.S. I need to kill the habit of using camelCase in Python. I was taught that way, so I am used to it.</p>
 
 <div align="center">
