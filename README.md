@@ -2,6 +2,7 @@
 <p>I have to like programming, because computers exist, don't they? (Basic programming is an essential skill for using the computer these days.) I actually don't really want to program for a living. This programming stuff is just here for pointless fun.</p>
 <p>P.S. I need to kill the habit of using camelCase in Python. I was taught that way, so I am used to it.</p>
 <p>P.P.S. I need to ditch Windows Forms and finally learn WPF and XAML in C#. Perhaps even UWP. All the Microsoft propaganda wants everyone to think that the Store and UWP apps are the future.</p>
+<p>P.P.P.S. Now Microsoft has killed off UWP and is pushing their even newer GUI framework WinUI 3. When will I ever keep up with Microsoft's ever-changing technologies?</p>
 
 <div align="center">
 
